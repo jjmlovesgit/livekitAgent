@@ -15,13 +15,21 @@ Quickstart:  https://docs.livekit.io/agents/quickstart/
 Reference:  https://docs.livekit.io/reference/
 
 Requirements.txt
+
 livekit==0.11.1
+
 livekit-agents==0.7.2
+
 livekit-api==0.5.1
+
 livekit-plugins-deepgram==0.5.0
+
 livekit-plugins-elevenlabs==0.6.0
+
 livekit-plugins-openai==0.6.0
+
 livekit-plugins-silero==0.5.0
+
 livekit-protocol==0.5.1
 
-yarl==1.9.4![image](https://github.com/user-attachments/assets/8f6fbd3d-04f2-4dda-89d4-95aa09f969ed)
+
