@@ -4,7 +4,7 @@ https://youtu.be/niyg3zRKO3k
 
 ![Livekit](https://github.com/user-attachments/assets/f8463adb-dcc4-410a-a758-0d49b04b1227)
 
-See the python code... built in July of 2024 with libs at that time.  Tested and working 8/19/2024.  See requirements.txt.  Lots of development and releases by Livekit team ongoing so be sure to visit the site and look at latest updates for any breaking changes or be sure to use the version I used.
+See the python code... built in July of 2024 with libs at that time.  Tested and working 8/19/2024.  See livekiy files and versions below.  Lots of development and releases by Livekit team ongoing so be sure to visit the site and look at latest updates for any breaking changes or be sure to use the version I used.
 
 https://livekit.io/
 
